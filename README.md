@@ -3,7 +3,7 @@ Certainly! Below is a detailed and professional `README.md` file tailored to you
 
 ---
 
-# Political Tweets Analysis Project
+# Political Tweets Analysis
 
 ## Overview
 
